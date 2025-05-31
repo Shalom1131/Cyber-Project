@@ -84,6 +84,7 @@ Designed as part of a final cybersecurity assignment.
 - **TensorFlow 2.15**
 - **Keras 2.15**
 - **Pillow** (for image loading)
+- add empty file called "temp" to the environment
 - Other libraries: see below
 
 ### 2. **Install dependencies**
